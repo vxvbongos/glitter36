@@ -1,6 +1,7 @@
 何かご不明な点がございましたらディスカッションページへご連絡を下さい。
 
-メルカリ https://jp.mercari.com/user/profile/369695310
+メルカリ
+https://jp.mercari.com/user/profile/369695310
 BOOTH
 https://keebstar.booth.pm/
 
