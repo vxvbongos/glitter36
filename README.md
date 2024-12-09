@@ -25,6 +25,8 @@ https://jp.mercari.com/user/profile/369695310
 裏面を半田付けします。
 ![IMG_20241209_173833](https://github.com/user-attachments/assets/b3dca3c0-614f-410f-8e7c-453ccfd3d8d4)
 
+これで半田付けは終了しました。
+
 コンスルーをこの向きに取り付けをします。向きに間違えないように注意してください。
 ![IMG_20241209_163146](https://github.com/user-attachments/assets/e0b658e7-a1c4-4328-8227-43ee7110092b)
 ![IMG_20241209_163158](https://github.com/user-attachments/assets/33a44baa-82bc-47bb-8c5a-cf6880f550dd)
