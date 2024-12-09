@@ -11,4 +11,17 @@ https://keebstar.booth.pm/
 
 遊舎工房
 ↓はんだ付けキット説明書↓
+①
+![IMG_20241209_102855](https://github.com/user-attachments/assets/fafbebf8-987d-484c-a896-178046ed2df6)
+最初にこのようにソケットを３６か所半田付けをします。
+②
+![IMG_20241209_173833](https://github.com/user-attachments/assets/b3dca3c0-614f-410f-8e7c-453ccfd3d8d4)
+裏面を半田付けします。
+③
+![IMG_20241209_163146](https://github.com/user-attachments/assets/e0b658e7-a1c4-4328-8227-43ee7110092b)
+![IMG_20241209_163158](https://github.com/user-attachments/assets/33a44baa-82bc-47bb-8c5a-cf6880f550dd)
+コンスルーをこの向きに取り付けをします。向きに間違えないように注意してください。
+④
+![IMG_20241209_163210](https://github.com/user-attachments/assets/db35461f-5b53-42cd-ab57-8f59db7013d9)
+Promicroをのせます。向きに間違えないように注意してください。
 
