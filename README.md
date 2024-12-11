@@ -20,6 +20,7 @@ https://jp.mercari.com/user/profile/369695310
 ![IMG_20241209_102855](https://github.com/user-attachments/assets/fafbebf8-987d-484c-a896-178046ed2df6)
 
 リセットスイッチとロータリーエンコーダーを取り付けします。
+（ロータリーエンコーダーの取り付けは自由です）
 ![IMG_20241209_102909](https://github.com/user-attachments/assets/f5128160-16aa-46f3-bb0d-d927c86f80e9)
 
 裏面を半田付けします。
