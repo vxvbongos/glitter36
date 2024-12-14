@@ -9,6 +9,8 @@ https://jp.mercari.com/user/profile/369695310
 
 ![IMG_20241126_164925~2](https://github.com/user-attachments/assets/5632cf67-d56d-4b71-9493-2dadcad4d805)
 ![スクリーンショット 2024-12-02 153639](https://github.com/user-attachments/assets/4dbc5952-1d1d-4fa4-ae0b-3781d0204a84)
+![スクリーンショット 2024-12-14 214524](https://github.com/user-attachments/assets/c9993757-44d5-42a5-83b1-e42b316e6093)
+
 
 
 遊舎工房
