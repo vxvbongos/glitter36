@@ -41,14 +41,14 @@ https://jp.mercari.com/user/profile/369695310
 ⑥裏から３ｍｍのネジで７ｍｍのスペーサーを固定します。
 ![IMG_20241215_152819](https://github.com/user-attachments/assets/1b42959b-490e-4fa1-96d4-0bc8f58c6545)
 
-⑦promicroカバーを３ｍｍのネジ止めします。
-![IMG_20241215_152907](https://github.com/user-attachments/assets/2a0a64e3-6977-492c-848b-15f4ff407a77)
+⑦上に５ｍｍのネジを取り付けします。３ｍｍのスペーサーを真ん中に固定します。
+![IMG_20241215_152409](https://github.com/user-attachments/assets/822e320e-484b-45e6-a029-e67da9ac240a)
 
 ⑧下に３ｍｍのネジ
 ![IMG_20241215_152412](https://github.com/user-attachments/assets/dbcfd674-873b-4612-b832-c9cbe7bb6a3c)
 
-⑨上に５ｍｍのネジを取り付けします。３ｍｍのスペーサーを真ん中に固定します。
-![IMG_20241215_152409](https://github.com/user-attachments/assets/822e320e-484b-45e6-a029-e67da9ac240a)
+⑨promicroカバーを３ｍｍのネジ止めします。
+![IMG_20241215_152907](https://github.com/user-attachments/assets/2a0a64e3-6977-492c-848b-15f4ff407a77)
 
 ⑩promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。（詳しくはQMK TOOLBOXを利用したファームウェアの書き込み方で検索してみてください）
 
