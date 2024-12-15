@@ -31,11 +31,11 @@ https://jp.mercari.com/user/profile/369695310
 
 これで半田付けは終了しました。
 
-④コンスルーをこの向きに取り付けをします。向きに間違えないように注意してください。
+④コンスルーをこの向きに取り付けをします。向きを間違えないように注意してください。
 ![IMG_20241209_163146](https://github.com/user-attachments/assets/e0b658e7-a1c4-4328-8227-43ee7110092b)
 ![IMG_20241209_163158](https://github.com/user-attachments/assets/33a44baa-82bc-47bb-8c5a-cf6880f550dd)
 
-⑤Promicroをのせます。向きに間違えないように注意してください。
+⑤Promicroをのせます。向きを間違えないように注意してください。
 ![IMG_20241209_163210](https://github.com/user-attachments/assets/db35461f-5b53-42cd-ab57-8f59db7013d9)
 
 ⑥裏から３ｍｍのネジで７ｍｍのスペーサーを固定します。
@@ -52,7 +52,7 @@ https://jp.mercari.com/user/profile/369695310
 
 ⑩promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。（詳しくはQMK TOOLBOXを利用したファームウェアの書き込み方で検索してみてください）
 
-⑪Remapを開いてvia.jsonをインポートします。
+⑪キーボードをパソコンと接続してRemapを開き、glitter36を選択後via.jsonをインポートします。
 
 これで完成しました。お疲れさまでした。
 
