@@ -34,14 +34,27 @@ https://jp.mercari.com/user/profile/369695310
 ![IMG_20241209_163146](https://github.com/user-attachments/assets/e0b658e7-a1c4-4328-8227-43ee7110092b)
 ![IMG_20241209_163158](https://github.com/user-attachments/assets/33a44baa-82bc-47bb-8c5a-cf6880f550dd)
 
+裏から３ｍｍのネジで７ｍｍのスペーサーで固定します。
+![IMG_20241215_152819](https://github.com/user-attachments/assets/1b42959b-490e-4fa1-96d4-0bc8f58c6545)
+
+promicroカバーをねじ止めします。
+![IMG_20241215_152907](https://github.com/user-attachments/assets/2a0a64e3-6977-492c-848b-15f4ff407a77)
+
 Promicroをのせます。向きに間違えないように注意してください。
 ![IMG_20241209_163210](https://github.com/user-attachments/assets/db35461f-5b53-42cd-ab57-8f59db7013d9)
 
-下に３ｍｍのスペーサー
+下に３ｍｍのネジ
 ![IMG_20241215_152409](https://github.com/user-attachments/assets/822e320e-484b-45e6-a029-e67da9ac240a)
 
-上に５ｍｍのスペーサーを取り付けします。
+上に５ｍｍのネジを取り付けします。３ｍｍのスペーサーを真ん中に固定します。
 ![IMG_20241215_152412](https://github.com/user-attachments/assets/dbcfd674-873b-4612-b832-c9cbe7bb6a3c)
+
+promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。
+Remapを開いてvia.jsonをインポートします。
+
+これで完成しました。お疲れさまでした。
+
+
 
 
 
