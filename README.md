@@ -18,39 +18,40 @@ https://jp.mercari.com/user/profile/369695310
 
 表面実装ダイオードはすでに機械で半田付けされていますのでこのキーボードの半田付け難易度は簡単です。初心者にもおすすめします。
 
-最初にこのようにソケットを３６か所半田付けをします。
+①最初にこのようにソケットを３６か所半田付けをします。
 ![IMG_20241209_102855](https://github.com/user-attachments/assets/fafbebf8-987d-484c-a896-178046ed2df6)
 
-リセットスイッチとロータリーエンコーダーを取り付けします。
+②リセットスイッチとロータリーエンコーダーを取り付けします。
 （ロータリーエンコーダーの取り付けは自由です）
 ![IMG_20241209_102909](https://github.com/user-attachments/assets/f5128160-16aa-46f3-bb0d-d927c86f80e9)
 
-裏面を半田付けします。
+③裏面を半田付けします。
 ![IMG_20241209_173833](https://github.com/user-attachments/assets/b3dca3c0-614f-410f-8e7c-453ccfd3d8d4)
 
 これで半田付けは終了しました。
 
-コンスルーをこの向きに取り付けをします。向きに間違えないように注意してください。
+④コンスルーをこの向きに取り付けをします。向きに間違えないように注意してください。
 ![IMG_20241209_163146](https://github.com/user-attachments/assets/e0b658e7-a1c4-4328-8227-43ee7110092b)
 ![IMG_20241209_163158](https://github.com/user-attachments/assets/33a44baa-82bc-47bb-8c5a-cf6880f550dd)
 
-Promicroをのせます。向きに間違えないように注意してください。
+⑤Promicroをのせます。向きに間違えないように注意してください。
 ![IMG_20241209_163210](https://github.com/user-attachments/assets/db35461f-5b53-42cd-ab57-8f59db7013d9)
 
-裏から３ｍｍのネジで７ｍｍのスペーサーを固定します。
+⑥裏から３ｍｍのネジで７ｍｍのスペーサーを固定します。
 ![IMG_20241215_152819](https://github.com/user-attachments/assets/1b42959b-490e-4fa1-96d4-0bc8f58c6545)
 
-promicroカバーを３ｍｍのネジ止めします。
+⑦promicroカバーを３ｍｍのネジ止めします。
 ![IMG_20241215_152907](https://github.com/user-attachments/assets/2a0a64e3-6977-492c-848b-15f4ff407a77)
 
-下に３ｍｍのネジ
+⑧下に３ｍｍのネジ
 ![IMG_20241215_152412](https://github.com/user-attachments/assets/dbcfd674-873b-4612-b832-c9cbe7bb6a3c)
 
-上に５ｍｍのネジを取り付けします。３ｍｍのスペーサーを真ん中に固定します。
+⑨上に５ｍｍのネジを取り付けします。３ｍｍのスペーサーを真ん中に固定します。
 ![IMG_20241215_152409](https://github.com/user-attachments/assets/822e320e-484b-45e6-a029-e67da9ac240a)
 
-promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。（詳しくはQMK TOOLBOXを利用したファームウェアの書き込み方で検索してみてください）
-Remapを開いてvia.jsonをインポートします。
+⑩promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。（詳しくはQMK TOOLBOXを利用したファームウェアの書き込み方で検索してみてください）
+
+⑪Remapを開いてvia.jsonをインポートします。
 
 これで完成しました。お疲れさまでした。
 
