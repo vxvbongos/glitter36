@@ -37,7 +37,7 @@ https://jp.mercari.com/user/profile/369695310
 Promicroをのせます。向きに間違えないように注意してください。
 ![IMG_20241209_163210](https://github.com/user-attachments/assets/db35461f-5b53-42cd-ab57-8f59db7013d9)
 
-裏から３ｍｍのネジで７ｍｍのスペーサーで固定します。
+裏から３ｍｍのネジで７ｍｍのスペーサーを固定します。
 ![IMG_20241215_152819](https://github.com/user-attachments/assets/1b42959b-490e-4fa1-96d4-0bc8f58c6545)
 
 promicroカバーをねじ止めします。
