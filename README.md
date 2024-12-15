@@ -49,7 +49,7 @@ promicroカバーを３ｍｍのネジ止めします。
 上に５ｍｍのネジを取り付けします。３ｍｍのスペーサーを真ん中に固定します。
 ![IMG_20241215_152409](https://github.com/user-attachments/assets/822e320e-484b-45e6-a029-e67da9ac240a)
 
-promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。
+promicroをQMK TOOLBOXを利用してhexファイルをリセットボタンを押してファームウェアを書き込みます。（詳しくはQMK TOOLBOXを利用したファームウェアの書き込み方で検索してみてください）
 Remapを開いてvia.jsonをインポートします。
 
 これで完成しました。お疲れさまでした。
