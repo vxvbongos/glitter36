@@ -37,5 +37,11 @@ https://jp.mercari.com/user/profile/369695310
 Promicroをのせます。向きに間違えないように注意してください。
 ![IMG_20241209_163210](https://github.com/user-attachments/assets/db35461f-5b53-42cd-ab57-8f59db7013d9)
 
+下に３ｍｍのスペーサー
+![IMG_20241215_152409](https://github.com/user-attachments/assets/822e320e-484b-45e6-a029-e67da9ac240a)
+
+上に５ｍｍのスペーサーを取り付けします。
+![IMG_20241215_152412](https://github.com/user-attachments/assets/dbcfd674-873b-4612-b832-c9cbe7bb6a3c)
+
 
 
