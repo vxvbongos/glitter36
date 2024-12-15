@@ -7,7 +7,8 @@ https://jp.mercari.com/user/profile/369695310
 
 （半田付けキットを購入された方向けの説明はこのページを下にスクロールすると記載されてます）
 
-![IMG_20241126_164925~2](https://github.com/user-attachments/assets/5632cf67-d56d-4b71-9493-2dadcad4d805)
+![Screenshot_2024-12-08-16-06-23-929_com google android apps photos~3](https://github.com/user-attachments/assets/be736bc6-a7a2-4ba0-8a27-57208bde0511)
+![Screenshot_2024-12-08-16-06-13-393_com google android apps photos](https://github.com/user-attachments/assets/31b4fa68-3c2b-4284-874d-c8e1b83b51e7)
 ![スクリーンショット 2024-12-02 153639](https://github.com/user-attachments/assets/4dbc5952-1d1d-4fa4-ae0b-3781d0204a84)
 ![スクリーンショット 2024-12-14 214524](https://github.com/user-attachments/assets/c9993757-44d5-42a5-83b1-e42b316e6093)
 
