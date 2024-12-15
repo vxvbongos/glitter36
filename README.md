@@ -40,7 +40,7 @@ Promicroをのせます。向きに間違えないように注意してくださ
 裏から３ｍｍのネジで７ｍｍのスペーサーを固定します。
 ![IMG_20241215_152819](https://github.com/user-attachments/assets/1b42959b-490e-4fa1-96d4-0bc8f58c6545)
 
-promicroカバーをねじ止めします。
+promicroカバーを３ｍｍのネジ止めします。
 ![IMG_20241215_152907](https://github.com/user-attachments/assets/2a0a64e3-6977-492c-848b-15f4ff407a77)
 
 下に３ｍｍのネジ
